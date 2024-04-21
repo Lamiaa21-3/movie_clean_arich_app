@@ -22,3 +22,7 @@ class ServerApiConstance {
 
   static String imageUrl(String path) => '$baseImageUrl$path';
 }
+
+
+
+
